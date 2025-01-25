@@ -1,0 +1,10 @@
+let firstName = 'John';
+console.log(firstName.length);
+console.log(firstName.endsWith('h'));
+console.log(firstName.startsWith('J'));
+console.log(firstName.replace('J','R'));
+console.log(firstName.toLowerCase());
+console.log(firstName.toUpperCase());
+console.log(firstName.split());
+console.log(firstName.substring(0,2));
+console.log(firstName.charAt(3));

@@ -10,4 +10,4 @@ class traingle {
     }
 }
 const myTrg = new traingle(5, 10);
-console.log(`Area of Circle = ${myTrg.area()}`)
+console.log(`Area of Circle = ${myTrg.area()}`) 
